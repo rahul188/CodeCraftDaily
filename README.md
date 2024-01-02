@@ -19,7 +19,8 @@ CodeCraft Showcases: Share your masterpieces! Whether it's an algorithmic triump
 
 Discussions and Insights: Engage in discussions, share insights, and learn from fellow craftsmen. Knowledge sharing is a cornerstone of CodeCraftDaily.
 
-⚡ Get Involved!
-Ready to join the CodeCraftDaily movement? Fork the repository, participate in daily challenges, and let your code craftiness shine. This is more than just a repository; it's a community of coders on a perpetual quest for excellence.
+## ⚡ Get Involved!
+## Ready to join the CodeCraftDaily movement? 
+Fork the repository, participate in daily challenges, and let your code craftiness shine. This is more than just a repository; it's a community of coders on a perpetual quest for excellence.
 
 Happy coding! 🚀✨
